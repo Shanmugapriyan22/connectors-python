@@ -11,9 +11,9 @@
 ##    Each object in the list requires `connector_id` and `service_type`.
 ##    An example is:
 ##    connectors:
-##      - connector_id: changeme # the ID of the connector.
-##        service_type: changeme # The service type of the connector.
-##        api_key: changeme # The Elasticsearch API key used to write data into the content index.
+##      - connector_id: La87_okBDgBEziKQAgUN # the ID of the connector.
+##        service_type: service_now # The service type of the connector.
+##        api_key: OVlkSl9va0Jxd0V0Wk5DLUFpV0Q6RFhQaGU5Y2xRXzY0cGw0ZE9HeGN0dw== # The Elasticsearch API key used to write data into the content index.
 #connectors: []
 #
 #
