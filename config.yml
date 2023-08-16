@@ -11,9 +11,9 @@
 ##    Each object in the list requires `connector_id` and `service_type`.
 ##    An example is:
 ##    connectors:
-##      - connector_id: La87_okBDgBEziKQAgUN # the ID of the connector.
-##        service_type: service_now # The service type of the connector.
-##        api_key: OVlkSl9va0Jxd0V0Wk5DLUFpV0Q6RFhQaGU5Y2xRXzY0cGw0ZE9HeGN0dw== # The Elasticsearch API key used to write data into the content index.
+##      - connector_id: "La87_okBDgBEziKQAgUN" # the ID of the connector.
+##        service_type: "service_now" # The service type of the connector.
+##        api_key: "OVlkSl9va0Jxd0V0Wk5DLUFpV0Q6RFhQaGU5Y2xRXzY0cGw0ZE9HeGN0dw==" # The Elasticsearch API key used to write data into the content index.
 #connectors: []
 #
 #
@@ -47,7 +47,7 @@
 ##  The password for the Elasticsearch connection.
 ##    Using `password` requires `username` to also be configured.
 ##    However, `elasticsearch.api_key` is the recommended configuration choice.
-#elasticsearch.password: changeme
+#elasticsearch.password: Msp_@29101990
 #
 #
 ##  Whether SSL is used for the Elasticsearch connection.
